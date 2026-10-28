@@ -1,9 +1,5 @@
 # AWS Resilience Engineering: Multi-Tier Failure & Disaster Recovery Architecture
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Architecture](https://img.shields.io/badge/Resilience-Compute%20%7C%20Storage%20%7C%20Region-blue)
 
 A production-grade implementation of cloud resilience and Disaster Recovery (DR) strategies on AWS. This project simulates and validates recovery mechanisms across three distinct failure domains: **Single-Node Compute Outage**, **Data Volume Corruption/Deletion**, and **Complete Regional Failure** across **Mumbai (`ap-south-1`)** and **Hyderabad (`ap-south-2`)**.
 
